@@ -1,7 +1,7 @@
 {
     "version": "0.1",
-    "name": "Function Maintenance",
-    "description": "Function Maintenance",
+    "name": "Todo App",
+    "description": "Todo App",
     "launch_path": "index.html",
     "icons": {
         "16": "assets/img/function.png",

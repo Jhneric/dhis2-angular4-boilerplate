@@ -1,18 +1,14 @@
 {
   "/api": {
-    "target": "https://ards.go.tz",
-    "target1": "http://test.hisptz.org:9081/dev",
-    "target2": "http://localhost:8081/dev",
+    "target": "http://192.168.100.104:8080",
     "secure": "true",
-    "auth":"vincentminde:StrongPasswordABC123",
+    "auth":"admin:district",
     "changeOrigin": true
   },
   "/": {
-    "target": "https://ards.go.tz",
-    "target1": "http://test.hisptz.org:9081/dev",
-    "target2": "http://localhost:8081/dev",
+    "target": "http://192.168.100.104:8080",
     "secure": "true",
-    "auth":"vincentminde:StrongPasswordABC123",
+    "auth":"admin:district",
     "changeOrigin": true
   }
 }
